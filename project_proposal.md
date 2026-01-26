@@ -1,6 +1,6 @@
 # Comparative Analysis of Subtelomeric Structural Variation between CHM13 and HG002 T2T Assemblies
 
-## Introduction
+## Introduction  - short
 
 The completion of the first "Telomere-to-Telomere" (T2T) human genome assembly, CHM13, marked a paradigm shift in genomics by resolving previously inaccessible "dark matter" regions, including centromeres and subtelomeres (Nurk et al. 2022). Subtelomeres—the regions immediately proximal to the hexameric  telomeric repeats—are characterized by extreme structural variation, segmental duplications, and rapid evolutionary flux. These regions often harbor gene families critical for immunity and environmental adaptation, such as the olfactory receptor (OR) and zinc finger (ZNF) families. Despite their biological importance, these regions remained unresolved in the GRCh38 reference due to the limitations of short-read sequencing.
 
