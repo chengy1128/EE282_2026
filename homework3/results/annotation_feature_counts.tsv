@@ -1,0 +1,17 @@
+count	feature
+190176	exon
+163377	CDS
+46856	5UTR
+33778	3UTR
+30922	start_codon
+30862	stop_codon
+30836	mRNA
+17872	gene
+3059	ncRNA
+485	miRNA
+365	pseudogene
+312	tRNA
+270	snoRNA
+262	pre_miRNA
+115	rRNA
+32	snRNA

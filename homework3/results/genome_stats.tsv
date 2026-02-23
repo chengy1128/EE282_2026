@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len
+homework3/data/fasta/dmel-all-chromosome-r6.66.fasta.gz	FASTA	DNA	1870	143726002	544	76858.8	32079331
