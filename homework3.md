@@ -17,7 +17,12 @@
 - Annotation: `dmel-all-r6.66.gtf.gz`
 
 ## Scripts
-All scripts are in `homework3/scripts`:
+Primary scripts (as requested naming convention) are in `code/scripts`:
+
+1. `code/scripts/hw3_genome_summary.sh`
+2. `code/scripts/hw3_annotation_summary.sh`
+
+Pipeline helper scripts are in `homework3/scripts`:
 
 1. `homework3/scripts/01_download_data.sh` - download genome/annotation + checksum files
 2. `homework3/scripts/02_verify_integrity.sh` - checksum verification
