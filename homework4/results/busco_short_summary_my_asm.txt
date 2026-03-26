@@ -1,0 +1,30 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: diptera_odb10 (Creation date: 2024-01-08, number of genomes: 56, number of BUSCOs: 3285)
+# Summarized benchmarking in BUSCO notation for file /Users/yunsawa/Documents/GitHub/EE282_2026/ee282/homework4/assembly/dmel_hifi.bp.p_ctg.fa
+# BUSCO was run in mode: euk_genome_min
+# Gene predictor used: miniprot
+
+	***** Results: *****
+
+	C:100.0%[S:99.7%,D:0.2%],F:0.0%,M:0.0%,n:3285,E:10.6%	   
+	3284	Complete BUSCOs (C)	(of which 349 contain internal stop codons)		   
+	3276	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	0	Fragmented BUSCOs (F)			   
+	1	Missing BUSCOs (M)			   
+	3285	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	199	Number of scaffolds
+	199	Number of contigs
+	165064926	Total length
+	0.000%	Percent gaps
+	21 Mbp	Scaffold N50
+	21 Mbp	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	bbtools: None
+	miniprot_index: 0.18-r281
+	miniprot_align: 0.18-r281
